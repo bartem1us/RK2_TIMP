@@ -9,4 +9,4 @@ cmake --build _build --target install
 
 cmake --build _build --target test
 
-[![Build Status](https://travis-ci.org/bartem1us/RK_TIMP_2.svg?branch=main)](https://travis-ci.org/github/bartem1us/RK_TIMP_2)
+[![Build Status](https://travis-ci.org/bartem1us/RK2_TIMP.svg?branch=master)](https://travis-ci.org/bartem1us/RK2_TIMP)
